@@ -1,0 +1,23 @@
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Dependencies / cache
+vendor/
+node_modules/
+
+# Logs
+*.log
+
+# Uploads (optional - depends on your project)
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
